@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Lane-Art-Design/website/main/src/img/logo/logo.png"/>
+<img src="[https://raw.githubusercontent.com/Lane-Art-Design/website/main/src/img/logo/logo.png](https://drive.google.com/file/d/1rkSO-kZxRLFypjGnioGuA0ua_TVho-kc/view?usp=sharing)https://drive.google.com/file/d/1rkSO-kZxRLFypjGnioGuA0ua_TVho-kc/view?usp=sharing"/>
